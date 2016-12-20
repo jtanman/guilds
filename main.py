@@ -1,6 +1,7 @@
 from os.path import dirname, join
 
 import numpy as np
+import pandas
 # import sqlite3 as sql
 
 from bokeh.plotting import figure, show, save
