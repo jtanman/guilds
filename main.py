@@ -10,7 +10,6 @@ from bokeh.models.widgets import Slider, Select, TextInput
 from bokeh.palettes import Blues6 as palette
 from bokeh.models import HoverTool, LinearColorMapper, LogColorMapper
 from bokeh.io import curdoc, output_file
-from bokeh.sampledata.movies_data import movie_path
 from bokeh.plotting import figure
 from bokeh.resources import CDN
 from bokeh.embed import file_html
