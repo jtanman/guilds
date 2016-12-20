@@ -1,0 +1,13 @@
+All
+en
+es
+ja
+it
+pt
+de
+fr
+tr
+ko
+ru
+ar
+zh

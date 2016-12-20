@@ -1,0 +1,7 @@
+All
+bronze
+silver
+gold
+platinum
+sapphire
+diamond
